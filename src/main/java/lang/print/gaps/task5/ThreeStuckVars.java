@@ -5,8 +5,6 @@ public class ThreeStuckVars {
         int first = 1;
         int second = 10;
         int third = 100;
-        System.out.print(1);
-        System.out.print(10);
-        System.out.print(100);
+        System.out.println(""+first+second+third);
     }
 }
